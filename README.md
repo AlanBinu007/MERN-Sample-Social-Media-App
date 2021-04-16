@@ -4,7 +4,7 @@
 
 ---------------------**Requirment**--------------------<br><br>
 1.Any Code Editor prefered **Vs Code**<br><br>
-2.Must install Node in ypur system  Link :-https://nodejs.org/en/download/<br><br>
+2.Must install Node in your system  Link :-https://nodejs.org/en/download/<br><br>
 3.Just Pull this code to your editor<br><br>
 4.Go to client folder and run the following command <br><br>
 <i>npm install axios redux redux-thunk body-parser @material-ui/core @material-ui/icon </i><br><br>
