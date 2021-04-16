@@ -1,6 +1,6 @@
 # MERN-Sample-Social-Media-App
+![fakebook](https://user-images.githubusercontent.com/65335042/114974861-d591f300-9ea0-11eb-82b5-5d7b1a848560.png)
 
-**It will be a simple Social Media App, that the user can able to post his feelings**
 
 ---------------------**Requirment**--------------------<br><br>
 1.Any Code Editor prefered **Vs Code**<br><br>
