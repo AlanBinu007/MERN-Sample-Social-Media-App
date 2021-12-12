@@ -17,6 +17,7 @@
 ## Features
 
 - Login and Logout
+- Like the profile
 - Upload Profile photo
 - Make post
 - Delete post
